@@ -49,4 +49,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adityamahaur/adityamahaur/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/adityamahaur/adityamahaur/blob/output/snake.svg)
