@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=adityamahaur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=adityamahaur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
     </td>
     <td align="right">
-      <img height="150" src="https://www.lambdatest.com/resources/images/news24.gif"  />
+      <img height="200" src="https://www.lambdatest.com/resources/images/news24.gif"  />
     </td>
   </tr>
 </table>
@@ -48,5 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/adityamahaur/adityamahaur/output/snake.svg" alt="Snake animation" />
