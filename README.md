@@ -1,51 +1,95 @@
-<h3 align="left">Hi! I am Aditya Mahaur, a final year undergrad student from India</h3>
+<br/>
 
-###
+<h1 align="center"> <b> Who am i ?  </b> </h1>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" style="padding-right: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=adityamahaur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-    </td>
-    <td align="right">
-      <img height="200" src="https://www.lambdatest.com/resources/images/news24.gif"  />
-    </td>
-  </tr>
-</table>
+<h4 align="center"> I’m Aditya ⚡</h4>
 
-###
+<h4 align="center"> Programmer 💻 </h4>
+<h4 align="center"> Data Science && Machine Learning Enthusiast 🪄</h4>
+<h4 align="center"> Generative AI - work in progress 🤖 </h4>
+<h4 align="center"> Learning and Implementing Java (god's language) 👨‍💻 </h4>
+<br></br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+```python
+
+Code is like humor. When you have to explain it, it’s bad
+```
+
+
+
+
+<hr> </hr>
+
+<div align="center">
+
+#### 🌟 Visitors over time
+![](https://komarev.com/ghpvc/?username=adityamahaur&label=PROFILE+VIEWS&style=plastic)
+
 </div>
 
-###
 
+<div align="center">
+  <h3>Languages<h3/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r" />
+  </a>
+
+<br/>
+
+
+  <h3>Frameworks & Libraries<h3/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+  </a>
+
+<br/>
+
+
+  <h3>Tools of Trade </h3>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,mongodb,mysql,sqlite,postgresql" />
+  </a>  
+
+<br/>
+
+
+  <h3>Would Love to Learn </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,fastapi,kafka" />
+  </a>
+
+<br/>
+
+<h3> Additional </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arduino,vscode,raspberrypi,notion" />
+  </a>
+
+<br/>
+
+
+
+<div align="center">
+
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityamahaur&show_icons=true&theme=radical" />
+</a>
+
+</br>
+
+</p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahaur&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+</a>
+
+
+</div>
+
+#### Contact Me: adityamahaur@gmail.com
